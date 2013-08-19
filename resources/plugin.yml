@@ -1,0 +1,5 @@
+name: GameModeRememberer
+version: 0.1
+description: Change game modes whilst remembering a default.
+authors: [the_pimaster]
+main: au.com.blogspot.thepimaster.gamemode.GameModeRememberer

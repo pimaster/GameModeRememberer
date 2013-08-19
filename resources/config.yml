@@ -1,0 +1,17 @@
+worlds:
+  world:
+    mode: REMEMBER
+    gamemode: SURVIVAL
+  survival:
+    mode: FIXED
+    gamemode: SURVIVAL
+    enter_trigger:
+    - CLEAR_INVENTORY
+  creative:
+    mode: FIXED
+    gamemode: CREATIVE
+    exit_trigger:
+    - CLEAR_INVENTORY
+players:
+  somePlayer:
+    world: CREATIVE
