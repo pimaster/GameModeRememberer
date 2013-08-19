@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.bukkitbackup</groupId>
+    <groupId>au.com.blogspot.thepimaster.gamemode</groupId>
     <artifactId>GameModeRememberer</artifactId>
     <version>0.1</version>
     <name>GameModeRememberer</name>
     <description>Remember Game modes for worlds</description>
-    <url>https://github.com/pimaster</url>
+    <url>https://github.com/pimaster/GameModeRememberer</url>
     <issueManagement>
         <system>GitHub</system>
         <url>https://github.com/pimaster/GameModeRememberer/issues</url>
